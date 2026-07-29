@@ -1,0 +1,2 @@
+import DifferentialGeometricAspectsStatisticalManifoldsCanonicalLaneLean.GateLemmas
+import DifferentialGeometricAspectsStatisticalManifoldsCanonicalLaneLean.FinalTheorem
